@@ -1,0 +1,20 @@
+{
+    "appName": "ampweb",
+    "roleName": "pinpointLambdaRoleaa15c600",
+    "cloudWatchPolicyName": "cloudWatchPolicyaa15c600",
+    "pinpointPolicyName": "pinpointPolicyaa15c600",
+    "authPolicyName": "pinpoint_amplify_aa15c600",
+    "unauthPolicyName": "pinpoint_amplify_aa15c600",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

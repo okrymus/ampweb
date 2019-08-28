@@ -1,0 +1,19 @@
+{
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "ampweb-test-20190828155004-authRole",
+            "UnauthRoleArn": "arn:aws:iam::220781730369:role/ampweb-test-20190828155004-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::220781730369:role/ampweb-test-20190828155004-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "ampweb-test-20190828155004-deployment",
+            "UnauthRoleName": "ampweb-test-20190828155004-unauthRole",
+            "StackName": "ampweb-test-20190828155004",
+            "StackId": "arn:aws:cloudformation:us-east-1:220781730369:stack/ampweb-test-20190828155004/07b9da50-c9cd-11e9-87a1-0efd3b0202da"
+        },
+        "categories": {
+            "auth": {
+                "ampwebe976e64e": {}
+            }
+        }
+    }
+}
