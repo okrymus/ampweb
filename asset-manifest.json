@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ampweb/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ampweb/static/js/main.b44cb0dd.chunk.js",
+    "main.js.map": "/ampweb/static/js/main.b44cb0dd.chunk.js.map",
+    "runtime~main.js": "/ampweb/static/js/runtime~main.992ff6fc.js",
+    "runtime~main.js.map": "/ampweb/static/js/runtime~main.992ff6fc.js.map",
+    "static/css/2.eee0f4a3.chunk.css": "/ampweb/static/css/2.eee0f4a3.chunk.css",
+    "static/js/2.ab5bd926.chunk.js": "/ampweb/static/js/2.ab5bd926.chunk.js",
+    "static/js/2.ab5bd926.chunk.js.map": "/ampweb/static/js/2.ab5bd926.chunk.js.map",
+    "index.html": "/ampweb/index.html",
+    "precache-manifest.7b6f5b2dfb66e1ef80e3e537822e43c2.js": "/ampweb/precache-manifest.7b6f5b2dfb66e1ef80e3e537822e43c2.js",
+    "service-worker.js": "/ampweb/service-worker.js",
+    "static/css/2.eee0f4a3.chunk.css.map": "/ampweb/static/css/2.eee0f4a3.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/ampweb/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/ampweb/static/media/logo.5d5d9eef.svg"
+  }
+}
