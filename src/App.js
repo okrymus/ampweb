@@ -3,6 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 import { withAuthenticator } from "aws-amplify-react";
+import { Analytics } from "aws-amplify";
 
 function App() {
   return (
